@@ -1,0 +1,196 @@
+#startnav {
+  display: flex;
+  justify-content: flex-start;
+}
+
+#endnav {
+  display: flex;
+}
+
+.navbar-item.border {
+  border-left-style: solid;
+  border-right-style: solid;
+  border-color: black;
+  border-width: 1px;
+  gap: 15px;
+}
+
+nav.navbar {
+  border-bottom-style: solid;
+  border-width: medium;
+  border-color: black;
+}
+
+footer.column {
+  background-color: white;
+  border-top-style: solid;
+  border-top-width: medium;
+  border-top-color: black;
+}
+
+div.column.has-text-centered {
+  border-style: solid;
+  border-color: #f01313;
+  border-width: medium;
+}
+
+
+.card {
+  border-style: dashed;
+  border-color: #f01313;
+  border-width: 1.9px;
+}
+
+img.imgborder {
+  border-bottom-style: dotted;
+  border-color: black;
+  border-width: 2px;
+}
+
+div.content {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+}
+
+body {
+  background-image: url("https://pngimage.net/wp-content/uploads/2018/06/png-red-4.png");
+  border-style: solid;
+  border-color: black;
+  border-width: medium;
+  background-position: center;
+  background-size: auto;
+  background-repeat: repeat-x;
+  background-attachment: fixed;
+}
+
+#PandaButton {
+border: 2px solid black; 
+transition-duration: .4s;
+width: 250px;
+position: relative;
+border-radius: 12px;
+font-family: "Lucida Console";
+}
+
+#PandaButton:hover {
+  background-color: grey;
+}
+
+#LakersButton {
+border: 2px solid black; 
+transition-duration: .4s;
+width: 250px;
+border-radius: 12px;
+font-family: "Lucida Console";
+}
+
+#LakersButton:hover {
+  background-color: grey;
+}
+
+#SlideButton {
+border: 2px solid black; 
+transition-duration: .4s;
+width: 250px;
+position: static;
+border-radius: 12px;
+font-family: "Lucida Console";
+}
+
+#SlideButton:hover {
+  background-color: grey;
+}
+
+#OreoButton {
+border: 2px solid black; 
+transition-duration: .4s;
+width: 250px;
+position: static;
+border-radius: 12px;
+font-family: "Lucida Console";
+}
+
+#OreoButton:hover {
+  background-color: grey;
+}
+
+#DiorButton {
+border: 2px solid black; 
+transition-duration: .4s;
+width: 250px;
+position: static;
+border-radius: 12px;
+font-family: "Lucida Console";
+}
+
+#DiorButton:hover {
+  background-color: grey;
+}
+
+#RedButton {
+border: 2px solid black; 
+transition-duration: .4s;
+width: 250px;
+position: static;
+border-radius: 12px;
+font-family: "Lucida Console";
+}
+
+#RedButton:hover {
+  background-color: grey;
+}
+
+#KobeButton {
+border: 2px solid black; 
+transition-duration: .4s;
+width: 250px;
+position: static;
+border-radius: 12px;
+font-family: "Lucida Console";
+}
+
+#KobeButton:hover {
+  background-color: grey;
+}
+
+#DustyButton {
+border: 2px solid black; 
+transition-duration: .4s;
+width: 250px;
+position: static;
+border-radius: 12px;
+font-family: "Lucida Console";
+}
+
+#DustyButton:hover {
+  background-color: grey;
+}
+
+#ScottButton {
+border: 2px solid black; 
+transition-duration: .4s;
+width: 250px;
+position: static;
+border-radius: 12px;
+font-family: "Lucida Console";
+}
+
+#ScottButton:hover {
+  background-color: grey;
+
+
+#scrollingtext {
+  padding-top: 10px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+
+
+
+
+
+
+
